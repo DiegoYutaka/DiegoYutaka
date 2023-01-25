@@ -13,7 +13,7 @@
 ### Formação Acadêmica 🖥️
 <hr>
 
-Tecnólogo em Análise e Desenvolvimento de Sistemas (UMC) - 2021 até 2022
+*_Tecnólogo em Análise e Desenvolvimento de Sistemas (UMC) - 2021 até 2022_*
 
 <div style="text-align:left"> 
 <br>

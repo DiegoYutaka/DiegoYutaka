@@ -46,7 +46,7 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas (UMC) - 2021 até 2022
 <br>
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=diegoyutaka&show_icons=true&theme=tokyonight">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoyutaka&layout=compact)](https://github.com/diegoyutaka/github-readme-stats">
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoyutaka&layout=compact)](https://github.com/diegoyutaka/github-readme-stats">
 
 
 

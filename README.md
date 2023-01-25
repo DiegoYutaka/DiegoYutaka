@@ -5,7 +5,7 @@
 <br>
 <div style="text-align:center">Olá, tudo bem?
 
- Me chamo Diego Yutaka, atualmente tenho 19 anos e sou apaixonado por Tecnologia desde que me conheço por gente. 
+ Me chamo Diego Yutaka, atualmente tenho 19 anos e sou apaixonado por Tecnologia desde que me conheço por gente. Estou sempre em busca de novos desafios pra minha carreira.
 
 <br><br>
 
@@ -58,7 +58,6 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas (UMC) - 2021 até 2022
 <hr>
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegomiyashita/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/diegoyutaka/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](https://mail.google.com/mail/u/0/#inbox)
+
